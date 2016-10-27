@@ -1,4 +1,4 @@
-# GITHUB: Common & Obscure Setup and Commands
+# GITHUB: Obscure Setups and Commands
 
 * [Setting up SSH access to multiple GitHub accounts with just one command](./multi-github-account-ssh-setup.md)
 * [View and kill servers running in the background](./view-and-kill-active-servers.md)
