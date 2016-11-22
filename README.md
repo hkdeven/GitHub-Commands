@@ -9,7 +9,7 @@
 * [Branching off of existing branches and commting][5]
 
 [1]: ./multi-github-account-ssh-setup.md
-[2]: ./view-and-kill-active-servers.md)
-[3]: ./list-remote-url.md)
-[4]: ./gitignore-ds-store-files.md)
-[5]: ./branching-off-of-existing-branches.md)
+[2]: ./view-and-kill-active-servers.md
+[3]: ./list-remote-url.md
+[4]: ./gitignore-ds-store-files.md
+[5]: ./branching-off-of-existing-branches.md
