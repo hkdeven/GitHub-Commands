@@ -1,8 +1,15 @@
 # GITHUB: Obscure Setups and Commands
 
-* [Setting up SSH access to multiple GitHub accounts with just one command](./multi-github-account-ssh-setup.md)
-* [View and kill servers running in the background](./view-and-kill-active-servers.md)
-* [Identify remote url your local directory is tied to on github.com (if any)](./list-remote-url.md)
-* [How to ignore those pesky 'DS_Store' files once and for all](./gitignore-ds-store-files.md)
+<img src="./octocat-detective.jpg" align="right"/>
 
-![OCTOCAT](./octocat-detective.jpg)
+* [Setting up SSH access to multiple GitHub accounts with just one command][1]
+* [View and kill servers running in the background][2]
+* [Identify remote url your local directory is tied to on github.com (if any)][3]
+* [How to ignore those pesky 'DS_Store' files once and for all][4]
+* [Branching off of existing branches and commting][5]
+
+[1]: ./multi-github-account-ssh-setup.md
+[2]: ./view-and-kill-active-servers.md)
+[3]: ./list-remote-url.md)
+[4]: ./gitignore-ds-store-files.md)
+[5]: ./branching-off-of-existing-branches.md)
