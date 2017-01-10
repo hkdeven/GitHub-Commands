@@ -1,4 +1,4 @@
-# GITHUB: Obscure Setups and Commands
+# GITHUB: Setups and Command Prompts
 
 <img src="./octocat-detective.jpg" align="right"/>
 
@@ -7,9 +7,11 @@
 * [Identify remote url your local directory is tied to on github.com (if any)][3]
 * [How to ignore those pesky 'DS_Store' files once and for all][4]
 * [Branching off of existing branches and commting][5]
+* [Markdown Tricks with GitHub][6]
 
 [1]: ./multi-github-account-ssh-setup.md
 [2]: ./view-and-kill-active-servers.md
 [3]: ./list-remote-url.md
 [4]: ./gitignore-ds-store-files.md
 [5]: ./branching-off-of-existing-branches.md
+[6]: ./github-markdown-tricks.md
