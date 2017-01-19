@@ -30,3 +30,11 @@ Github allows us to use a limited subset of HTML in our Markdown files – lets 
   <dd>With hanging indentation</dd>
 </dl>
 ```
+
+## Liven it up with Emojis
+
+No one enjoys reading docs, so add some eye bling using emoji shortcodes in your markdown.    
+[Click here][1] to view complete list of supported bling.    
+:octocat: :ring: :eyes: :tongue:
+
+[1]: http://www.webpagefx.com/tools/emoji-cheat-sheet/
