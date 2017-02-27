@@ -40,6 +40,8 @@ git config --global core.excludesfile ~/.gitignore_global
 And you're done.  :white_check_mark:    
 Say goodbye to those pesky `DS_Store` files once and for all!
 
-For more details, see the GitHub Help pages: [help.github.com/articles/ignoring-files][1]
+For more details, see the GitHub Help pages: [help.github.com/articles/ignoring-files][1]    
+Or peruse this collection of useful .gitignore templates: [2]
 
 [1]: https://help.github.com/articles/ignoring-files
+[2]: https://github.com/github/gitignore
