@@ -9,6 +9,7 @@
 * [Branching off of existing branches and commting][5]
 * [Markdown Tricks with GitHub][6]
 * [Quickly recall what was committed via your terminal][7]
+* [Merging need-to-know][8]
 
 [1]: ./multi-github-account-ssh-setup.md
 [2]: ./view-and-kill-active-servers.md
@@ -17,3 +18,4 @@
 [5]: ./branching-off-of-existing-branches.md
 [6]: ./github-markdown-tricks.md
 [7]: https://github.com/kamranahmedse/git-standup
+[8]: ./merging.md
