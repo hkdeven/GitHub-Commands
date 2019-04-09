@@ -6,7 +6,7 @@
 * [View and kill servers running in the background][2]
 * [Identify remote url your local directory is tied to on github.com (if any)][3]
 * [How to ignore those pesky 'DS_Store' files once and for all][4]
-* [Branching off of existing branches and commting][5]
+* [Branching off of existing branches and commenting][5]
 * [Markdown Tricks with GitHub][6]
 * [Quickly recall what was committed via your terminal][7]
 * [Merging need-to-know][8]
