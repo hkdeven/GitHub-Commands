@@ -1,4 +1,4 @@
-#Branching from Existing Branches
+# Branching from Existing Branches
 
 At some point we will all do work on a feature that is in development.  The safest, cleanest workflow is obviously to create a branch from the current `development` branch.  This way, if or when you screw something up, no one in your team need be aware or affected by it.  And when everything is ready with your particular feature, you can simple merge into the `development` branch.
 
