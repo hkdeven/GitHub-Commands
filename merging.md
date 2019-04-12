@@ -1,4 +1,4 @@
-#Merging NTK
+# Merging NTK
 
 To merge another branch into your own you'll need to add the other branch as a remote:
 
