@@ -49,7 +49,7 @@ ssh-add ~/.ssh/id_rsa_COMPANY
 
 If successful, you'll see a response of "Identity Added."
 
-##Create a Config File
+## Create a Config File
 
 We've done the bulk of the workload; but now we need a way to specify when we wish to push to our personal account, and when we should instead push to our company account. To do so, create a config file and open that file in our editor of choice.
 
@@ -58,7 +58,7 @@ touch ~/.ssh/config
 atom ~/.ssh/config
 ```
 
-##Automate SSH Key Additions
+## Automate SSH Key Additions
 
 In the config file, insert the code snippet below:
 
@@ -84,7 +84,7 @@ Now we can access and update repos in our second account by running standard por
 git remote add origin git@github_COMPANY:hkdeven/GitHub-InDepth.git
 ```
 
-#Update Git user.email
+#U pdate Git user.email
 
 Navigate and open the `~/.gitconfig` file.
 
@@ -103,7 +103,7 @@ Copy and paste the code below under alias making sure to update the applicable f
 
 This allows us to change all remotes from one host to another (the alias).
 
-##Execute
+## Execute
 
 Now we can simply run a command similar to this:
 
