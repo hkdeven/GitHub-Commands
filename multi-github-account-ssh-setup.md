@@ -84,7 +84,7 @@ Now we can access and update repos in our second account by running standard por
 git remote add origin git@github_COMPANY:hkdeven/GitHub-InDepth.git
 ```
 
-#U pdate Git user.email
+# Update Git user.email
 
 Navigate and open the `~/.gitconfig` file.
 
