@@ -21,6 +21,12 @@ Take the numeric ID from the second column of the event you wish to terminate an
 kill -9 439
 ```
 
+If you know which port you need to stop, use a direct approach:
+
+```
+sudo lsof -t -i tcp:50000 | xargs kill -9
+```
+
 We can verify that the process has been terminated by running the first command above.
 
-Enjoy.
+Enjoy. :metal:
